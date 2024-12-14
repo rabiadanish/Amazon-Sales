@@ -11,6 +11,7 @@ We used an Amazon sales dataset sourced from Kaggle. The dataset includes key at
 - **Kibana**: Created interactive dashboards and visualizations for presenting insights. 
 ## **Results**
 - **Impact of Discounts**: Analyzed the relationship between discounts and sales performance, uncovering trends in sales volume and revenue.
+  
 ![image](https://github.com/user-attachments/assets/50ba5535-597c-421b-9f43-4167a530923f)
 ![image](https://github.com/user-attachments/assets/a18cca4e-cc19-4822-9117-b6908c9a21a5)
 
